@@ -48,3 +48,7 @@ LINE Messaging API (LINEの通知機能でクイズが新しく追加された�
 楽天APIを使用し、実際の商品を表示する
 
 画面遷移図　https://www.figma.com/file/dfL9Sv165hu5tcoI62EgRt/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=pD4hZPTcCGpiDJ4C-1
+
+
+ER図
+https://i.gyazo.com/6e2e2183ccbfb927b688d67f1a140c32.png
