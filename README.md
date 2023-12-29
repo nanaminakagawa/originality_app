@@ -51,4 +51,4 @@ LINE Messaging API (LINEの通知機能でクイズが新しく追加された�
 
 
 ER図
-https://i.gyazo.com/6e2e2183ccbfb927b688d67f1a140c32.png
+https://i.gyazo.com/edbed7db7d6f52a1ccde63957102ff5d.png
