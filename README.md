@@ -1,1 +1,1 @@
-# originality_app
+# bousai_app
